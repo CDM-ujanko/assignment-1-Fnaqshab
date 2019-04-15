@@ -1,0 +1,11 @@
+div {
+    /* background: green; */
+}
+
+.two {
+    background: blue;
+}
+
+div#myId.two  {
+    background: red;
+}
